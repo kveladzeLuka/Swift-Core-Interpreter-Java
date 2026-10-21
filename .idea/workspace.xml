@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29fb60f6-e52c-4275-8133-68744e5b15b0" name="Changes" comment="rom gavxsna" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7165912238785928" />
+      <entry key="MS500" value="4.838999189614195" />
+      <entry key="S2" value="15.489340898327418" />
+      <entry key="S5" value="31.374571437343388" />
+      <entry key="S10" value="53.41892662621242" />
+      <entry key="S30" value="101.76191193568178" />
+      <entry key="S60" value="128.13317693355816" />
+      <entry key="M2" value="166.21092386798608" />
+      <entry key="M5" value="289.60644520176845" />
+      <entry key="M10" value="441.64289383226884" />
+      <entry key="M15" value="544.3182695236793" />
+      <entry key="M30" value="711.7751364272389" />
+      <entry key="H1" value="838.0094718311722" />
+      <entry key="H2" value="917.1421144328494" />
+      <entry key="H4" value="961.684749328431" />
+      <entry key="D1" value="1001.6694595264516" />
+      <entry key="W1" value="1008.8028946669076" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.653769175851217" />
+      <entry key="MS500" value="4.803790736109766" />
+      <entry key="S2" value="15.460948851707368" />
+      <entry key="S5" value="31.3508391698162" />
+      <entry key="S10" value="53.39836579531755" />
+      <entry key="S30" value="101.74870803810765" />
+      <entry key="S60" value="128.12483874814836" />
+      <entry key="M2" value="166.20539910016964" />
+      <entry key="M5" value="289.6021953091488" />
+      <entry key="M10" value="441.6394787514425" />
+      <entry key="M15" value="544.3154310425566" />
+      <entry key="M30" value="711.7732734567167" />
+      <entry key="H1" value="838.0083771272457" />
+      <entry key="H2" value="917.1415165328823" />
+      <entry key="H4" value="961.6844362342824" />
+      <entry key="D1" value="1001.6694052352585" />
+      <entry key="W1" value="1008.8028868573736" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3L0XaftJnGSJhUdVumMwVDNZoRr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SwiftInterpreter.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SwiftInterpreter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwiftInterpreter" />
+      <module name="FoP_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SwiftInterpreter" />
+        <item itemvalue="Application.SwiftInterpreter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29fb60f6-e52c-4275-8133-68744e5b15b0" name="Changes" comment="" />
+      <created>1792592024415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792592024415</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rom gavxsna" />
+    <option name="LAST_COMMIT_MESSAGE" value="rom gavxsna" />
+  </component>
+</project>
